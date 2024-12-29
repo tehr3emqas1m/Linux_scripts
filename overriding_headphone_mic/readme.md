@@ -12,8 +12,9 @@ Select the appropriate sound card up top in Select a codec:
 Then make the Black Mic (headphone jack) override Not connected
 
 Lower right corner, select Install boot override
+![Screenshot from 2024-12-29 16-55-36](https://github.com/user-attachments/assets/a19658ac-9d57-458b-ab60-f9184aeb7ffa)
 
-![Z7kC3](https://github.com/user-attachments/assets/e7b9d49c-d829-4b22-8c82-7dc16256e589)
+
 
 
 
