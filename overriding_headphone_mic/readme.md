@@ -1,4 +1,4 @@
-When not plugging in anything, my internal input and outputs work perfectly. When I plug in my headphones, which do not have microphone but only speakers, my input devices look like this (using pulseaudio volume control):
+When not plugging in anything, my internal input and outputs work perfectly. When I plug in my headphones, which do not have microphone but only speakers, my input devices look like this (using pavucontrol i.e., pulseaudio volume control):
 
 Internal Microphone (unplugged)
 Microphone (plugged in)
