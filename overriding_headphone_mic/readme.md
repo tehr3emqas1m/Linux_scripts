@@ -3,7 +3,8 @@ When not plugging in anything, my internal input and outputs work perfectly. Whe
 Internal Microphone (unplugged)
 Microphone (plugged in)
 
-#Solution
+#Solution:
+
 --->sudo apt install alsa-tools-gui
 
 --->hdajackretask
