@@ -3,9 +3,10 @@ When not plugging in anything, my internal input and outputs work perfectly. Whe
 Internal Microphone (unplugged)
 Microphone (plugged in)
 
-sudo apt install alsa-tools-gui
+--->sudo apt install alsa-tools-gui
 
-hdajackretask
+--->hdajackretask
+
 Select the appropriate sound card up top in Select a codec:
 
 Then make the Black Mic (headphone jack) override Not connected
