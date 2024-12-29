@@ -12,3 +12,7 @@ Then make the Black Mic (headphone jack) override Not connected
 
 Lower right corner, select Install boot override
 
+![Z7kC3](https://github.com/user-attachments/assets/e7b9d49c-d829-4b22-8c82-7dc16256e589)
+
+
+
