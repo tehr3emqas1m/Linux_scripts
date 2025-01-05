@@ -10,27 +10,27 @@ Below is a screen shot of my qtile. The Python code for customization is given i
 Note: I had a pre-existing hyperland which was using sddm. I had to kill wayland, disable sddm using  and enable lightdm 
 in order for qtile to run. This was offcourse after qtile installation
 
-ps aux | grep wayland
-killall -9 wayland-session hyperland
-killall -9 wayland
-ps aux | grep wayland
-killall -9 wayland-session hyperland
-killall -9 wayland-session hyperland
-killall -9 wayland-session hyperland
-killall -9 wayland-session hyperland
-killall -9 wayland-session hyperland
-killall -9 wayland-session hyperland
-killall -9 wayland-session hyperland
-Xorg :0 &
-ps aux | grep x
-killall -9 Xorg
-sudo killall -9 Xorg
-Xorg :0 &
-export Display=:0
-qtile start
-qtile start
-qtile start
-shutdown now
+- ps aux | grep wayland
+- killall -9 wayland-session hyperland
+- killall -9 wayland
+- ps aux | grep wayland
+- killall -9 wayland-session hyperland
+- killall -9 wayland-session hyperland
+- killall -9 wayland-session hyperland
+- killall -9 wayland-session hyperland
+- killall -9 wayland-session hyperland
+- killall -9 wayland-session hyperland
+- killall -9 wayland-session hyperland
+- Xorg :0 &
+- ps aux | grep x
+- killall -9 Xorg
+- sudo killall -9 Xorg
+- Xorg :0 &
+- export Display=:0
+- qtile start
+- qtile start
+- qtile start
+- shutdown now
 
 
 
