@@ -2,6 +2,11 @@
 
 ************ qtile installation on Arch Linux *************
 -------------------------------------------------------------
+Below is a screen shot of my qtile. The Python code for customization is given in the config file:
+
+![Screenshot from 2025-01-06 01-04-22](https://github.com/user-attachments/assets/f35ac613-a606-4ca1-8c68-cd98bad02ba3)
+
+
 Note: I had a pre-existing hyperland which was using sddm. I had to kill wayland, disable sddm using  and enable lightdm 
 in order for qtile to run. This was offcourse after qtile installation
 
