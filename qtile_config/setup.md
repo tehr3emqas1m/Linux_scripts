@@ -1,6 +1,6 @@
 
 
-#************ qtile installation on Arch Linux *************
+************ qtile installation on Arch Linux *************
 -------------------------------------------------------------
 Note: I had a pre-existing hyperland which was using sddm. I had to kill wayland, disable sddm using  and enable lightdm 
 in order for qtile to run. This was offcourse after qtile installation
