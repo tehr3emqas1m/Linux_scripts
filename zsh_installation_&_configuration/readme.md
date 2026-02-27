@@ -1,5 +1,5 @@
-<img width="1366" height="768" alt="Screenshot from 2026-02-27 14-03-36" src="https://github.com/user-attachments/assets/96e5d3bc-10ba-4654-b02e-c80a199fa6fe" />
 
+<img width="1367" height="617" alt="Screenshot from 2026-02-27 14-03-36" src="https://github.com/user-attachments/assets/adeb9bde-1586-48cf-ade9-eb47a82daeb8" />
 
 # Install dependencies
 sudo apt update
